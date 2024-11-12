@@ -1,0 +1,5 @@
+# Ignorar .txt
+*.txt
+
+# Ignorar Excluded
+Excluded/
