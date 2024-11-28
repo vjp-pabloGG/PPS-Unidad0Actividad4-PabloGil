@@ -8,4 +8,6 @@
 
 # Crea una carpeta con nombre Excluded. En ella vamos a colocar la documentación que no queremos que sea rastreada y subida al repositorio. Además, para comprobar que funciona crea algún archivo vacío allí y también crea un archivo con nombre excluido.txt.
 ![](/images/Cap12.png)
+
+# Crea un archivo con nombre .gitignore en el cual vamos a poner los archivos y directorios que no queremos que se rastreen. Indica en el .gitignore que los archivos con extensión .txt y el directorio Excluded no deben de ser rastreados ni sincronizados..
 ![](/images/Cap4.png)
