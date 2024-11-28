@@ -11,3 +11,6 @@
 
 # Crea un archivo con nombre .gitignore en el cual vamos a poner los archivos y directorios que no queremos que se rastreen. Indica en el .gitignore que los archivos con extensión .txt y el directorio Excluded no deben de ser rastreados ni sincronizados..
 ![](/images/Cap4.png)
+
+# Comprueba el estado del proyecto y comprueba que no nos indica nada del seguimiento de dichos archivos.
+
